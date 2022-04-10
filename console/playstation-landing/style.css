@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+:root {
+	--left-bg-overlay: #5754ecb3;
+	--right-bg-overlay: #2b2b2bcc;
+	--left-btn-hover-color: #5754ec;
+	--right-btn-hover-color: #1c7a1c;
+	--hover-width: 75%;
+	--other-width: 25%;
+	--speed: 0.5s;
+}
+
+body {
+	background-image: url('ps5.jpg');
+	background-repeat: no-repeat;
+    background-size:700px;
+    bottom: 0;
+    background-color: #000;
+    left: 0;
+    overflow: auto;
+    padding: 0em;
+    position: relative;
+    right: 0;
+    top: 1em;
+    font-family: SegoeProBlack, Segoe UI, SegoeUI, Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: #fff;
+}
+.compre h1 {
+	color: #fff;
+	margin-top: 50px
+}
+
+div {
+	margin-left: 680px;
+}
+
+a {
+	color: #4f84ef;
+	font-size: 20px;
+    text-decoration: none;
+}
+
+.b{
+	margin-left: 680px;
+	text-align: left;
+	margin-right: 75px;
+	border: medium;
+    font-size: 20px;
+    color: #fff;
+}
+
+.c {
+	margin-left: 100px;
+	text-align: left;
+	margin-right: 70px;
+	border: medium;
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer {
+	
+	width: 100%;
+	background-color: var(--left-bg-overlay);
+	color: #f1f1f1;
+	padding: 5px 9px;
+	margin-left: -10px;
+  }
+ 
+  .footer p {
+	font-size: 15px;
+	line-height: 20px;
+	color: #f1f1f1;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: bold;
+	text-align: center;	
+  }
