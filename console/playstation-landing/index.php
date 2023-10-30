@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 	<html lang="pt-br">
 	<head>
 		<title>PS5 - Sobre</title>
